@@ -1,0 +1,42 @@
+[submodule "FaceAntiSpoofingX6"]
+	path = FaceAntiSpoofingX6
+	url = https://github.com/SeetaFace6Sharp/FaceAntiSpoofingX6
+[submodule "FaceBoxes"]
+	path = FaceBoxes
+	url = https://github.com/SeetaFace6Sharp/FaceBoxes
+[submodule "FaceRecognizer6"]
+	path = FaceRecognizer6
+	url = https://github.com/SeetaFace6Sharp/FaceRecognizer6
+[submodule "FaceTracker6"]
+	path = FaceTracker6
+	url = https://github.com/SeetaFace6Sharp/FaceTracker6
+[submodule "Landmarker"]
+	path = Landmarker
+	url = https://github.com/SeetaFace6Sharp/Landmarker
+[submodule "OpenRoleZoo"]
+	path = OpenRoleZoo
+	url = https://github.com/SeetaFace6Sharp/OpenRoleZoo
+[submodule "PoseEstimator6"]
+	path = PoseEstimator6
+	url = https://github.com/SeetaFace6Sharp/PoseEstimator6
+[submodule "QualityAssessor3"]
+	path = QualityAssessor3
+	url = https://github.com/SeetaFace6Sharp/QualityAssessor3
+[submodule "SeetaAgePredictor"]
+	path = SeetaAgePredictor
+	url = https://github.com/SeetaFace6Sharp/SeetaAgePredictor
+[submodule "SeetaAuthorize"]
+	path = SeetaAuthorize
+	url = https://github.com/SeetaFace6Sharp/SeetaAuthorize
+[submodule "SeetaEyeStateDetector"]
+	path = SeetaEyeStateDetector
+	url = https://github.com/SeetaFace6Sharp/SeetaEyeStateDetector
+[submodule "SeetaGenderPredictor"]
+	path = SeetaGenderPredictor
+	url = https://github.com/SeetaFace6Sharp/SeetaGenderPredictor
+[submodule "SeetaMaskDetector"]
+	path = SeetaMaskDetector
+	url = https://github.com/SeetaFace6Sharp/SeetaMaskDetector
+[submodule "TenniS"]
+	path = TenniS
+	url = https://github.com/SeetaFace6Sharp/TenniS
